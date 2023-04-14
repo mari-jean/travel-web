@@ -5,13 +5,6 @@
     padding: 0;
 }
 
-
-/* MOBILE FIRST*/ 
-
-/* section #main-image {
-    width:100%
-} */
-
 /* GENERAL */ 
 
 
@@ -111,7 +104,7 @@ header  nav ul li a {
 
 #main-image {
     height: 580px;
-    background: url('img/main.jpg') center;
+    background: url('../img/main.jpg') center;
 }
 
 #main-image h2 {
@@ -174,15 +167,15 @@ header  nav ul li a {
 }
 
 #step-1 {
-    background: url('img/steps-icon-1.png') no-repeat top center;
+    background: url('../img/steps-icon-1.png') no-repeat top center;
 }
 
 #step-2 {
-    background: url('img/steps-icon-2.png') no-repeat top center;
+    background: url('../img/steps-icon-2.png') no-repeat top center;
 }
 
 #step-3 {
-    background: url('img/steps-icon-3.png') no-repeat top center;
+    background: url('../img/steps-icon-3.png') no-repeat top center;
 }
 
 /* POSSIBILITIES */
@@ -298,4 +291,4 @@ footer h1 {
     font-weight: bold;
     padding-top: 30px;
     color:#777;
-}
+} 
